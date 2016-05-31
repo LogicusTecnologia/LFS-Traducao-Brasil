@@ -53,7 +53,7 @@ Ajuda
 
 Introdução
 
-Criando a nova Parcição
+Criando a nova Partição
 
 Criando o sistema de arquivos para a partição
 
