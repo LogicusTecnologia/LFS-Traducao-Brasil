@@ -46,3 +46,39 @@ Changelog
 Recursos
 
 Ajuda
+
+### II. Preparando-se para a Compilação
+
+  Preparando a nova Partição
+
+Introdução
+
+Criando a nova Parcição
+
+Criando o sistema de arquivos para a partição
+
+Setando a Variavel $LFS
+
+Montando a nova partição
+
+   Pacotes e "Patches"(Remendos)
+
+Introdução
+
+Todos os Pacotes
+
+"Patches"(Remendos) Nessesários
+
+   Preparativos Finais
+
+Introdução
+
+Criando o Diretório $LFS/tools
+
+Adicionando o usuário LFS
+
+Configuração de Ambiente
+
+Sobre SBU`s
+
+Sobre conjuntos de testes
