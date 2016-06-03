@@ -50,7 +50,11 @@ Ajuda
 ### II. Preparando-se para a Compilação
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### Preparando a nova Partição
+=======
+####Preparando a nova Partição
+>>>>>>> LogicusTecnologia/master
 =======
 ####Preparando a nova Partição
 >>>>>>> LogicusTecnologia/master
@@ -66,7 +70,11 @@ Setando a Variavel $LFS
 Montando a nova partição
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### Pacotes e "Patches"(Remendos)
+=======
+####Pacotes e "Patches"(Remendos)
+>>>>>>> LogicusTecnologia/master
 =======
 ####Pacotes e "Patches"(Remendos)
 >>>>>>> LogicusTecnologia/master
@@ -78,7 +86,11 @@ Todos os Pacotes
 "Patches"(Remendos) Nessesários
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### Preparativos Finais
+=======
+####Preparativos Finais
+>>>>>>> LogicusTecnologia/master
 =======
 ####Preparativos Finais
 >>>>>>> LogicusTecnologia/master
@@ -95,6 +107,7 @@ Sobre SBU`s
 
 Sobre conjuntos de testes
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #### Construindo o Systema Temporário
 
@@ -103,5 +116,7 @@ Introdução
 
 
 
+=======
+>>>>>>> LogicusTecnologia/master
 =======
 >>>>>>> LogicusTecnologia/master
