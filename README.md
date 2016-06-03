@@ -49,7 +49,7 @@ Ajuda
 
 ### II. Preparando-se para a Compilação
 
-  Preparando a nova Partição
+#### Preparando a nova Partição
 
 Introdução
 
@@ -61,7 +61,7 @@ Setando a Variavel $LFS
 
 Montando a nova partição
 
-   Pacotes e "Patches"(Remendos)
+#### Pacotes e "Patches"(Remendos)
 
 Introdução
 
@@ -69,7 +69,7 @@ Todos os Pacotes
 
 "Patches"(Remendos) Nessesários
 
-   Preparativos Finais
+#### Preparativos Finais
 
 Introdução
 
@@ -82,3 +82,11 @@ Configuração de Ambiente
 Sobre SBU`s
 
 Sobre conjuntos de testes
+
+#### Construindo o Systema Temporário
+
+Introdução
+
+
+
+
